@@ -1,0 +1,2 @@
+inventory=cigarettes;
+chosen_item_index=0

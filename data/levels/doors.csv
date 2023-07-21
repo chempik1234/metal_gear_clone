@@ -1,0 +1,4 @@
+y,x,leads_to_room,leading_to_room_name,leading_to_location_name,where_is_location,where_is_floor,where_is_room;
+13,27,1,0,,building_1,1,
+26,25,1,0,,building_1,1,
+11,9,0,,building_1,building_1,1,0
